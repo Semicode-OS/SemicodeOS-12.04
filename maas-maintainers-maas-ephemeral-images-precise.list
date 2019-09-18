@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/maas-maintainers/maas-ephemeral-images/ubuntu precise main
+deb-src http://ppa.launchpad.net/maas-maintainers/maas-ephemeral-images/ubuntu precise main
