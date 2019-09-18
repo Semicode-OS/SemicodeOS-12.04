@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/towolf/ansible194/ubuntu precise main
+deb-src http://ppa.launchpad.net/towolf/ansible194/ubuntu precise main

@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/wlallemand/kvm-libvirtd-lucid/ubuntu precise main
+deb-src http://ppa.launchpad.net/wlallemand/kvm-libvirtd-lucid/ubuntu precise main

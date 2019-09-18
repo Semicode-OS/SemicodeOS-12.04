@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/vicamo/ci-test-only/ubuntu precise main
+deb-src http://ppa.launchpad.net/vicamo/ci-test-only/ubuntu precise main

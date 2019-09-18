@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/valve-experimental/kernel-bionic/ubuntu precise main
+deb-src http://ppa.launchpad.net/valve-experimental/kernel-bionic/ubuntu precise main

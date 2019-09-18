@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/xfactor973/ceph-safe-disk/ubuntu precise main
+deb-src http://ppa.launchpad.net/xfactor973/ceph-safe-disk/ubuntu precise main
