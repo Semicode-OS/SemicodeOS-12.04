@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/drizzle-developers/build-depends/ubuntu precise main
+deb-src http://ppa.launchpad.net/drizzle-developers/build-depends/ubuntu precise main

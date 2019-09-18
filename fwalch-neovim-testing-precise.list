@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/fwalch/neovim-testing/ubuntu precise main
+deb-src http://ppa.launchpad.net/fwalch/neovim-testing/ubuntu precise main
