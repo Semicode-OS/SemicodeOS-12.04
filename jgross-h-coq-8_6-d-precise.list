@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/jgross-h/coq-8.6-d/ubuntu precise main
+deb-src http://ppa.launchpad.net/jgross-h/coq-8.6-d/ubuntu precise main
