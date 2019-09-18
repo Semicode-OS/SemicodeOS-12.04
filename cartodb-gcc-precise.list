@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/cartodb/gcc/ubuntu precise main
+deb-src http://ppa.launchpad.net/cartodb/gcc/ubuntu precise main

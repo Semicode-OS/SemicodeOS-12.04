@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/bpaquet/zeromq3-precise/ubuntu precise main
+deb-src http://ppa.launchpad.net/bpaquet/zeromq3-precise/ubuntu precise main

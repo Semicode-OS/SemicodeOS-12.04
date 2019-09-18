@@ -1,0 +1,2 @@
+deb http://ppa.launchpad.net/ast/libmodbus/ubuntu precise main
+deb-src http://ppa.launchpad.net/ast/libmodbus/ubuntu precise main
